@@ -52,6 +52,8 @@ A **visão computacional** aplicada ao **controle de qualidade** permite que o *
 ## 🔧 **Como Funciona**
 O **MultiAgent** combina **diversas APIs**, que trabalham juntas para criar uma solução **integrada**, que otimiza as operações e fornece **relatórios precisos e em tempo real**. O sistema **analisa dados** de **sensores**, **câmeras de segurança**, **sensores de estoque** e **dados de fornecedores** para gerar **insights acionáveis**, permitindo **decisões informadas** e **redução de erros humanos**.
 
+![5a9e009d-267e-49bd-a510-516cdc135a5c](https://github.com/user-attachments/assets/ef0da8e7-f8d7-4ad7-9548-7cefca450208)
+
 ### **Fluxo do Sistema**:
 1. **Captura de Dados**: Sensores e câmeras capturam informações do ambiente de **estoque**.
 2. **Análise em Tempo Real**: Modelos de **IA** processam as imagens e os dados, identificando padrões de **movimento**, **produtos e falhas**.
