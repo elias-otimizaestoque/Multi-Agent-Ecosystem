@@ -60,6 +60,8 @@ O **MultiAgent** combina **diversas APIs**, que trabalham juntas para criar uma 
 3. **Geração de Relatórios**: **Relatórios automatizados** com insights sobre o **controle de estoque**, **segurança** e **qualidade**.
 4. **Ação Automática**: **Alertas** ou **ações automáticas**, como geração de **ordens de compras**, **alertas de segurança** ou **identificação de problemas de qualidade**.
 
+![download](https://github.com/user-attachments/assets/583173ce-29f2-4a2f-861e-a914fe5305be)
+
 ## 🧑‍💼 **Como Posso Ajudar Sua Empresa**
 Com minha experiência no desenvolvimento de sistemas baseados em **IA**, **ML** e **BI**, estou pronto para **transformar sua operação logística**, **aumentar a eficiência de compras**, **otimizar o controle de estoque** e **garantir a conformidade de contratos**. O **MultiAgent** é a solução que sua empresa precisa para integrar todos esses processos de forma **inteligente**, **autônoma** e **escalável**.
 
